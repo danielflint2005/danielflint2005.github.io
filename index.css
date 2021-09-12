@@ -259,6 +259,7 @@ body {
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .titlewarleh {
@@ -270,6 +271,7 @@ body {
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .titlemwe {
@@ -281,17 +283,19 @@ body {
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .titleil84 {
 	position:absolute;
 	text-align: center;
 	vertical-align: middle;
-	transform: translate(0%,-1300%);
+	transform: translate(0%,-1400%);
 	font-size: 22px;
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .title752 {
@@ -303,6 +307,7 @@ body {
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .titlenocoins {
@@ -314,6 +319,7 @@ body {
 	width: 100%;
 	background-attachment: fixed;
 	font-family: Arial, Helvetica, sans-serif;
+	font-style: bold;
 }
 
 .body454 {
